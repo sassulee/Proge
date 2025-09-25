@@ -14,7 +14,7 @@ Marii juhis:
 Tõmba alla mõlemad failid ning pilt nimega "burx.png"
 
 Lisette juhis: 
-Tõmba alla fail fail ning pilt nimega "koogiviljad.png"
+Tõmba alla fail.
 
 
 
@@ -27,4 +27,5 @@ Paberprototüüp :) (tehtud meie kõigi lemmikus paint programmis)
 
 Marii pilt burx:
 <img width="447" height="434" alt="burx" src="https://github.com/user-attachments/assets/19980cea-04ea-446b-9da6-06189adc6ec0" />
-Lisette pilt köögiviljad:
+
+
