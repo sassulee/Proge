@@ -16,6 +16,9 @@ Tõmba alla mõlemad failid ning pilt nimega "burx.png"
 Lisette juhis: 
 Tõmba alla fail.
 
+Saskia juhis:
+Lihtsalt tõmba alla fail ja f5
+
 
 
 Paberprototüüp :) (tehtud meie kõigi lemmikus paint programmis)
