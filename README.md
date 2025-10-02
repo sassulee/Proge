@@ -19,6 +19,8 @@ Tõmba alla fail.
 Saskia juhis:
 Lihtsalt tõmba alla fail ja f5
 
+Et esimest prototüüpi tööle saada, pole vaja midagi muud kui lihtsalt fail alla tõmmata ja f5
+
 
 
 Paberprototüüp :) (tehtud meie kõigi lemmikus paint programmis)
